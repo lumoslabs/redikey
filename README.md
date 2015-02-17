@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/lumoslabs/bootstrap_haml_helpers.svg?branch=master)](https://travis-ci.org/lumoslabs/bootstrap_haml_helpers)
+[![Build Status](https://travis-ci.org/lumoslabs/redikey.svg?branch=master)](https://travis-ci.org/lumoslabs/redikey)
 
 # Redikey
 
