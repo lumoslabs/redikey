@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/lumoslabs/bootstrap_haml_helpers.svg?branch=master)](https://travis-ci.org/lumoslabs/bootstrap_haml_helpers)
+
 # Redikey
 
 Redikey encapsulates the Redis hash key pattern [defined here](http://instagram-engineering.tumblr.com/post/12202313862/storing-hundreds-of-millions-of-simple-key-value).
