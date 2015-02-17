@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["carl.furrow@gmail.com"]
   spec.summary       = %q{Simplify creation of storage-efficient redis hash keys}
   spec.description   = %q{}
-  spec.homepage      = ""
+  spec.homepage      = "https://github.com/lumoslabs/redikey"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0")
