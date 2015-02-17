@@ -1,6 +1,6 @@
 # Redikey
 
-Redikey encapsulates the Redis hash key pattern [defined here](#).
+Redikey encapsulates the Redis hash key pattern [defined here](http://instagram-engineering.tumblr.com/post/12202313862/storing-hundreds-of-millions-of-simple-key-value).
 
 The most common usage was to group values into common key prefixes ('milestones' or 'str_report', etc) and then taking the user_id of the user we want to store or retrieve data in redis for (e.g. 5000000) and then making the hash key by taking the user_id and dividing by 512, which would become: `milestones:9765`.
 
